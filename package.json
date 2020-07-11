@@ -1,0 +1,22 @@
+{
+  "name": "questionmarkbot",
+  "version": "1.0.0",
+  "description": "Ping a user with the \"missing enemies\" ping from Legaue of Legends.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ping",
+    "bot",
+    "discord",
+    "discordbot",
+    "reactions",
+    "reactionbot"
+  ],
+  "author": "xTakoyakii",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
